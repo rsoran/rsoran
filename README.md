@@ -5,7 +5,6 @@
 - 🚀 DevOps enthusiast who loves **automation, containerization, and cloud technologies**.
 - 💞️ I’m looking to collaborate on **open-source DevOps projects and automation tools**.
 - 📫 How to reach me: **https://www.linkedin.com/in/rsoran/**
-- ⚡ Fun fact: I can set up a PXE server 😆
 
 <!---
 rsoran/rsoran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
